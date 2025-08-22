@@ -2,4 +2,4 @@
 
 Here’s a preview of the project 👇
 
-[Home Page](./screenshot/image.png)
+![Simple Project](./screenshot/image.png)
