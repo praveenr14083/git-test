@@ -1,5 +1,5 @@
-# My Project
+# My Simple Website
 
 Here’s a preview of the project 👇
 
-![Simple Project](./screenshot/image.png)
+![My website](./images/output.png)
